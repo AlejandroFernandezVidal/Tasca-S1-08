@@ -1,5 +1,5 @@
 package n2exercici3;
-
-public interface FunctionalInterface {
+@FunctionalInterface
+public interface FunctionalInterface1 {
 	public float operacio(float a, float b);
 }

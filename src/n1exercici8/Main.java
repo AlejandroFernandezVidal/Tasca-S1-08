@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		FunctionalInterface obtenido = palabra -> {
+		FunctionalInterface1 obtenido = palabra -> {
 
 			StringBuilder reves = new StringBuilder(palabra);
 			String palabraReves = reves.reverse().toString();

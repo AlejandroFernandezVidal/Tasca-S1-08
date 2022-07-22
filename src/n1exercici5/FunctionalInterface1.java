@@ -1,5 +1,5 @@
 package n1exercici5;
-
-public interface FunctionalInterface {
+@FunctionalInterface
+public interface FunctionalInterface1 {
 	public double getPiValue();
 }
